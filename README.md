@@ -6,3 +6,6 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
+“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
+
+- Aaron Swartz (1986 / 2013) -
